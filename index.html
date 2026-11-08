@@ -1635,7 +1635,7 @@ async function refreshLive(manual) {
       doc.querySelectorAll("a[href]").forEach(a => {
         const t = a.textContent.replace(/\s+/g, " ").trim(); let u;
         try { u = new URL(a.getAttribute("href"), "https://italiainclassea.enea.it/").href; } catch (e) { return; }
-        if (t.length < 25 || !u.startsWith("https://italiainclassea.enea.it/") || /\/(news|eventi|podcast|training-day|elearning)\/?$/.test(u) || seen.has(u)) return;
+        if (t.length < 25 || !u.startsWith("https://italiainclassea.enea.it/") || u.endsWith("/") || /\/(news|eventi|podcast|training-day|elearning)$/.test(u) || seen.has(u)) return;
         seen.add(u); items.push({t, u, s: "ENEA", d: "dal sito"});
       });
       if (items.length >= 3) { live.news = items.slice(0, 12); state = "live"; }

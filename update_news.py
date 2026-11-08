@@ -26,7 +26,7 @@ def fetch_news():
     seen, items = set(), []
     for href, text in p.out:
         url = urljoin(BASE, href or "")
-        if len(text) < 25 or not url.startswith(BASE) or SKIP.search(url) or url in seen: continue
+        if len(text) < 25 or not url.startswith(BASE) or url.endswith("/") or SKIP.search(url) or url in seen: continue
         seen.add(url); items.append({"t": text, "u": url, "s": "ENEA", "d": "dal sito"})
     return items[:12]
 
