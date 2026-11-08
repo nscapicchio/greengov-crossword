@@ -79,6 +79,16 @@
   "ispra": {
    "n": "ISPRA",
    "u": "https://www.isprambiente.gov.it/"
+  },
+  "enea_scuola": {
+   "n": "ENEA · Scuola e Formazione",
+   "u": "https://italiainclassea.enea.it/scuola-e-formazione/",
+   "ENEA": true
+  },
+  "red": {
+   "n": "Definizione redazionale · approfondisci su ENEA",
+   "u": "https://italiainclassea.enea.it/",
+   "ENEA": true
   }
  },
  "words": [
@@ -830,6 +840,1231 @@
    "t": "N",
    "s": "iea",
    "c": "Agenzia internazionale dell'energia: sigla inglese"
+  },
+  {
+   "w": "ORA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Sessanta minuti"
+  },
+  {
+   "w": "ORE",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Sessanta minuti, al plurale: kilowatt per ___"
+  },
+  {
+   "w": "ERA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Periodo storico: l'___ delle rinnovabili"
+  },
+  {
+   "w": "ALA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Parte laterale di un edificio o di una turbina aeronautica"
+  },
+  {
+   "w": "ECO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Prefisso di ecologico: ___bonus"
+  },
+  {
+   "w": "USO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Impiego: ___ efficiente dell'energia"
+  },
+  {
+   "w": "SUD",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Esposizione ideale per i pannelli solari in Italia"
+  },
+  {
+   "w": "EST",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Punto cardinale in cui sorge il Sole"
+  },
+  {
+   "w": "ORO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "L'___ blu è l'acqua"
+  },
+  {
+   "w": "UNO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Il primo numero naturale"
+  },
+  {
+   "w": "GAS",
+   "l": 1,
+   "t": "E",
+   "s": "arera",
+   "c": "Fonte fossile che alimenta caldaie e fornelli"
+  },
+  {
+   "w": "IVA",
+   "l": 1,
+   "t": "P",
+   "s": "ae",
+   "c": "Imposta sul Valore Aggiunto: sigla"
+  },
+  {
+   "w": "ARE",
+   "l": 2,
+   "t": "G",
+   "s": "red",
+   "c": "Unità di superficie pari a 100 metri quadrati"
+  },
+  {
+   "w": "ONU",
+   "l": 2,
+   "t": "G",
+   "s": "unfccc",
+   "c": "Organizzazione delle Nazioni Unite: sigla"
+  },
+  {
+   "w": "LUX",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura dell'illuminamento"
+  },
+  {
+   "w": "OHM",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura della resistenza elettrica"
+  },
+  {
+   "w": "BAR",
+   "l": 2,
+   "t": "G",
+   "s": "red",
+   "c": "Unità di misura della pressione"
+  },
+  {
+   "w": "NOX",
+   "l": 3,
+   "t": "N",
+   "s": "ispra",
+   "c": "Ossidi di azoto, inquinanti prodotti dalla combustione: sigla chimica"
+  },
+  {
+   "w": "ARIA",
+   "l": 1,
+   "t": "G",
+   "s": "ispra",
+   "c": "Si inquina quando si bruciano i combustibili fossili"
+  },
+  {
+   "w": "ONDA",
+   "l": 1,
+   "t": "N",
+   "s": "irena",
+   "c": "Quella marina può produrre energia"
+  },
+  {
+   "w": "NEVE",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Cade d'inverno e alimenta i bacini idroelettrici"
+  },
+  {
+   "w": "ALBA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Momento in cui sorge il Sole"
+  },
+  {
+   "w": "SERA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Quando cala il Sole i pannelli smettono di produrre"
+  },
+  {
+   "w": "LUCE",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Va spenta quando non serve"
+  },
+  {
+   "w": "CASA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Abitazione: se è efficiente si dice \"green\""
+  },
+  {
+   "w": "AREA",
+   "l": 1,
+   "t": "R",
+   "s": "red",
+   "c": "Superficie di territorio: ___ da rigenerare"
+  },
+  {
+   "w": "ZONA",
+   "l": 1,
+   "t": "R",
+   "s": "red",
+   "c": "Parte di città: ___ a traffico limitato"
+  },
+  {
+   "w": "MURO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Parete che si isola con il cappotto"
+  },
+  {
+   "w": "LAGO",
+   "l": 1,
+   "t": "N",
+   "s": "red",
+   "c": "Specchio d'acqua, a volte bacino idroelettrico"
+  },
+  {
+   "w": "MARE",
+   "l": 1,
+   "t": "N",
+   "s": "red",
+   "c": "Ospita l'eolico offshore"
+  },
+  {
+   "w": "ORTO",
+   "l": 1,
+   "t": "R",
+   "s": "red",
+   "c": "Coltivazione urbana di ortaggi"
+  },
+  {
+   "w": "TRAM",
+   "l": 1,
+   "t": "R",
+   "s": "red",
+   "c": "Mezzo elettrico su rotaia che circola in città"
+  },
+  {
+   "w": "AUTO",
+   "l": 1,
+   "t": "N",
+   "s": "red",
+   "c": "Veicolo che può essere elettrico"
+  },
+  {
+   "w": "BICI",
+   "l": 1,
+   "t": "R",
+   "s": "red",
+   "c": "Mezzo di trasporto sostenibile a pedali"
+  },
+  {
+   "w": "RAME",
+   "l": 2,
+   "t": "E",
+   "s": "red",
+   "c": "Metallo usato nei cavi elettrici"
+  },
+  {
+   "w": "ALGA",
+   "l": 2,
+   "t": "N",
+   "s": "red",
+   "c": "Pianta acquatica da cui si ricavano biocarburanti"
+  },
+  {
+   "w": "SALI",
+   "l": 2,
+   "t": "N",
+   "s": "red",
+   "c": "___ fusi: accumulano calore negli impianti solari a concentrazione"
+  },
+  {
+   "w": "OLIO",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Quello esausto si trasforma in biodiesel"
+  },
+  {
+   "w": "RETE",
+   "l": 1,
+   "t": "N",
+   "s": "arera",
+   "c": "Insieme di cavi e tralicci che porta l'elettricità"
+  },
+  {
+   "w": "CAVO",
+   "l": 1,
+   "t": "E",
+   "s": "red",
+   "c": "Conduttore che trasporta la corrente"
+  },
+  {
+   "w": "VOLT",
+   "l": 1,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura della tensione elettrica"
+  },
+  {
+   "w": "ZERO",
+   "l": 1,
+   "t": "N",
+   "s": "ue",
+   "c": "Emissioni nette ___: obiettivo europeo al 2050"
+  },
+  {
+   "w": "DATI",
+   "l": 1,
+   "t": "E",
+   "s": "arera",
+   "c": "Informazioni trasmesse dai contatori intelligenti"
+  },
+  {
+   "w": "ANNO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Dodici mesi: il bilancio energetico si fa su base annuale"
+  },
+  {
+   "w": "EURO",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Moneta in cui si misurano gli incentivi"
+  },
+  {
+   "w": "IDEA",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Spunto per un progetto sostenibile"
+  },
+  {
+   "w": "ALTO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Contrario di basso: il rendimento deve essere ___"
+  },
+  {
+   "w": "DIGA",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Sbarramento che forma un bacino idroelettrico"
+  },
+  {
+   "w": "PALA",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Elemento rotante dell'aerogeneratore"
+  },
+  {
+   "w": "LANA",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "___ di roccia o di legno: materiale isolante"
+  },
+  {
+   "w": "FUMI",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Gas di scarico della combustione"
+  },
+  {
+   "w": "OASI",
+   "l": 2,
+   "t": "R",
+   "s": "red",
+   "c": "Area naturale protetta"
+  },
+  {
+   "w": "EOLO",
+   "l": 2,
+   "t": "N",
+   "s": "red",
+   "c": "Nella mitologia greca è il dio dei venti"
+  },
+  {
+   "w": "SMOG",
+   "l": 2,
+   "t": "N",
+   "s": "ispra",
+   "c": "Miscela di fumo e nebbia nelle città inquinate"
+  },
+  {
+   "w": "ACQUA",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Fonte dell'energia idroelettrica"
+  },
+  {
+   "w": "TERRA",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Il nostro pianeta: da qui viene anche il calore geotermico"
+  },
+  {
+   "w": "TETTO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Copertura dell'edificio: si isola o si copre di pannelli"
+  },
+  {
+   "w": "VETRO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Materiale riciclabile all'infinito"
+  },
+  {
+   "w": "LEGNO",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Materiale da costruzione rinnovabile, usato anche come biomassa"
+  },
+  {
+   "w": "CARTA",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Si ricicla nel contenitore dedicato alla raccolta differenziata"
+  },
+  {
+   "w": "BOSCO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Assorbe CO2 e ripulisce l'aria"
+  },
+  {
+   "w": "FIUME",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Corso d'acqua che alimenta le centrali idroelettriche"
+  },
+  {
+   "w": "COSTO",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Quanto si paga: si riduce con l'efficienza"
+  },
+  {
+   "w": "BONUS",
+   "l": 1,
+   "t": "P",
+   "s": "ae",
+   "c": "Agevolazione fiscale per lavori edilizi"
+  },
+  {
+   "w": "JOULE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura dell'energia nel Sistema Internazionale"
+  },
+  {
+   "w": "HERTZ",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura della frequenza"
+  },
+  {
+   "w": "CALDO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Si evita d'estate con le schermature solari"
+  },
+  {
+   "w": "SPESA",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Quanto si paga: ___ energetica"
+  },
+  {
+   "w": "ENTE",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Organismo pubblico: ENEA è un ___ di ricerca"
+  },
+  {
+   "w": "PIANO",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Strategia: ___ Nazionale di Ripresa e Resilienza"
+  },
+  {
+   "w": "GREEN",
+   "l": 1,
+   "t": "G",
+   "s": "ue",
+   "c": "\"Verde\" in inglese: ___ economy"
+  },
+  {
+   "w": "SMART",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "\"Intelligente\" in inglese: ___ city"
+  },
+  {
+   "w": "CITTA",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Luogo da rigenerare e rendere resiliente"
+  },
+  {
+   "w": "STUFA",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "A pellet o a legna, riscalda una stanza"
+  },
+  {
+   "w": "SERRA",
+   "l": 1,
+   "t": "N",
+   "s": "ispra",
+   "c": "Effetto ___: trattiene il calore nell'atmosfera"
+  },
+  {
+   "w": "ATOMO",
+   "l": 2,
+   "t": "G",
+   "s": "red",
+   "c": "Particella di cui è fatta la materia"
+  },
+  {
+   "w": "SPINA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Si toglie dalla presa per eliminare lo standby"
+  },
+  {
+   "w": "PRESA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Dove si inserisce la spina"
+  },
+  {
+   "w": "TORRE",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Sostegno dell'aerogeneratore"
+  },
+  {
+   "w": "CELLA",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Elemento base del pannello fotovoltaico"
+  },
+  {
+   "w": "FONTE",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Origine: ___ rinnovabile"
+  },
+  {
+   "w": "PARCO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Area verde cittadina"
+  },
+  {
+   "w": "BANDO",
+   "l": 2,
+   "t": "P",
+   "s": "red",
+   "c": "Avviso pubblico per ottenere finanziamenti"
+  },
+  {
+   "w": "NORMA",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Regola di legge"
+  },
+  {
+   "w": "LEGGE",
+   "l": 1,
+   "t": "P",
+   "s": "red",
+   "c": "Atto approvato dal Parlamento"
+  },
+  {
+   "w": "OZONO",
+   "l": 2,
+   "t": "N",
+   "s": "ispra",
+   "c": "Gas che forma uno strato protettivo nell'atmosfera"
+  },
+  {
+   "w": "NUOVO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Contrario di vecchio: ___ impianto"
+  },
+  {
+   "w": "VECCHIO",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Contrario di nuovo: infisso ___ che disperde calore"
+  },
+  {
+   "w": "CAMINO",
+   "l": 2,
+   "t": "E",
+   "s": "red",
+   "c": "Canale per l'evacuazione dei fumi"
+  },
+  {
+   "w": "CALORE",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Energia termica"
+  },
+  {
+   "w": "FREDDO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Si contrasta d'inverno con l'isolamento"
+  },
+  {
+   "w": "PELLET",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Cilindretti di segatura pressata per le stufe"
+  },
+  {
+   "w": "CARBONE",
+   "l": 1,
+   "t": "N",
+   "s": "iea",
+   "c": "Combustibile fossile molto inquinante"
+  },
+  {
+   "w": "METANO",
+   "l": 1,
+   "t": "E",
+   "s": "arera",
+   "c": "Il gas naturale è fatto soprattutto di questo"
+  },
+  {
+   "w": "PARETE",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Muro: si isola con il cappotto"
+  },
+  {
+   "w": "MISURA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Si ottiene con il contatore"
+  },
+  {
+   "w": "POTENZA",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Si misura in watt"
+  },
+  {
+   "w": "TERMICO",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Relativo al calore: isolamento ___"
+  },
+  {
+   "w": "SENSORE",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Rileva presenza o luce per accendere e spegnere"
+  },
+  {
+   "w": "SUGHERO",
+   "l": 2,
+   "t": "E",
+   "s": "red",
+   "c": "Corteccia leggera usata come isolante naturale"
+  },
+  {
+   "w": "SILICIO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Materiale con cui si fanno le celle fotovoltaiche"
+  },
+  {
+   "w": "VAPORE",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Acqua gassosa che muove le turbine geotermiche"
+  },
+  {
+   "w": "RESIDUI",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Scarti agricoli usati come biomassa"
+  },
+  {
+   "w": "COMPOST",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Fertilizzante ottenuto dai rifiuti organici"
+  },
+  {
+   "w": "PIAZZA",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Spazio pubblico da rendere vivibile"
+  },
+  {
+   "w": "SOCIALE",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "___ housing: abitare accessibile"
+  },
+  {
+   "w": "STORICO",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "___ centro: da restaurare con cura"
+  },
+  {
+   "w": "CREDITO",
+   "l": 2,
+   "t": "P",
+   "s": "ae",
+   "c": "___ d'imposta: ottenuto con i lavori"
+  },
+  {
+   "w": "SCONTO",
+   "l": 1,
+   "t": "P",
+   "s": "ae",
+   "c": "___ in fattura: riduzione del prezzo dei lavori"
+  },
+  {
+   "w": "DECRETO",
+   "l": 2,
+   "t": "P",
+   "s": "mase",
+   "c": "Atto normativo: ___ Rilancio"
+  },
+  {
+   "w": "OBBLIGO",
+   "l": 2,
+   "t": "P",
+   "s": "red",
+   "c": "Dovere imposto dalla norma"
+  },
+  {
+   "w": "AGENDA",
+   "l": 2,
+   "t": "G",
+   "s": "unfccc",
+   "c": "Piano ONU al 2030 per lo sviluppo sostenibile"
+  },
+  {
+   "w": "SPRECO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Il contrario del risparmio"
+  },
+  {
+   "w": "RISORSA",
+   "l": 2,
+   "t": "G",
+   "s": "ue",
+   "c": "Bene da usare con parsimonia"
+  },
+  {
+   "w": "IBRIDO",
+   "l": 2,
+   "t": "N",
+   "s": "red",
+   "c": "Auto con motore termico ed elettrico"
+  },
+  {
+   "w": "SOLAI",
+   "l": 3,
+   "t": "E",
+   "s": "red",
+   "c": "Strutture orizzontali che separano i piani"
+  },
+  {
+   "w": "SPIFFERO",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Corrente d'aria che passa da un infisso mal sigillato"
+  },
+  {
+   "w": "ISOLANTE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Materiale che frena il passaggio del calore"
+  },
+  {
+   "w": "IMPIANTO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Insieme di apparecchi che producono o distribuiscono energia"
+  },
+  {
+   "w": "EDIFICIO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Costruzione: se ne misura la prestazione energetica"
+  },
+  {
+   "w": "CORRENTE",
+   "l": 1,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Elettrica, scorre nei cavi"
+  },
+  {
+   "w": "TENSIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Si misura in volt"
+  },
+  {
+   "w": "AMBIENTE",
+   "l": 1,
+   "t": "G",
+   "s": "ispra",
+   "c": "Ciò che ci circonda: da tutelare"
+  },
+  {
+   "w": "SORGENTE",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Origine: ___ di energia"
+  },
+  {
+   "w": "CONSUMO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Quantità di energia usata"
+  },
+  {
+   "w": "PAESAGGIO",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Veduta del territorio: da tutelare quando si installano gli impianti"
+  },
+  {
+   "w": "TERRITORIO",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Spazio di una comunità: da gestire con cura"
+  },
+  {
+   "w": "INCENTIVO",
+   "l": 1,
+   "t": "P",
+   "s": "enea_inc",
+   "c": "Aiuto economico per lavori di efficienza"
+  },
+  {
+   "w": "DIRETTIVA",
+   "l": 2,
+   "t": "P",
+   "s": "ue",
+   "c": "Atto europeo da recepire: ___ case green"
+  },
+  {
+   "w": "ORGANICO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Rifiuto umido: diventa compost o biogas"
+  },
+  {
+   "w": "PLASTICA",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Materiale da riciclare, nel sacco giallo"
+  },
+  {
+   "w": "ALLUMINIO",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Metallo riciclabile all'infinito"
+  },
+  {
+   "w": "QUARTIERE",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Parte di città: si rigenera con verde e servizi"
+  },
+  {
+   "w": "GIARDINO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Spazio verde: può essere pensile, sul tetto"
+  },
+  {
+   "w": "CANTIERE",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Luogo dove si svolgono i lavori edilizi"
+  },
+  {
+   "w": "PROGETTO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Piano di lavoro: ___ di rigenerazione urbana"
+  },
+  {
+   "w": "FACCIATA",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Fronte esterno dell'edificio"
+  },
+  {
+   "w": "ABBANDONO",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Stato di un edificio non più curato"
+  },
+  {
+   "w": "DISCARICA",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Dove finiscono i rifiuti non riciclati"
+  },
+  {
+   "w": "SERBATOIO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Contenitore dell'acqua calda nell'impianto solare termico"
+  },
+  {
+   "w": "COLLETTORE",
+   "l": 3,
+   "t": "N",
+   "s": "gse",
+   "c": "Pannello solare termico che scalda un fluido"
+  },
+  {
+   "w": "RADIATORE",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Corpo scaldante dell'impianto di riscaldamento"
+  },
+  {
+   "w": "SERRAMENTI",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Infissi: finestre e porte"
+  },
+  {
+   "w": "ELETTRICO",
+   "l": 1,
+   "t": "N",
+   "s": "red",
+   "c": "Tipo di veicolo a batteria"
+  },
+  {
+   "w": "CLIMATICO",
+   "l": 1,
+   "t": "N",
+   "s": "unfccc",
+   "c": "Relativo al clima: cambiamento ___"
+  },
+  {
+   "w": "GLOBALE",
+   "l": 2,
+   "t": "N",
+   "s": "unfccc",
+   "c": "Esteso a tutto il pianeta: riscaldamento ___"
+  },
+  {
+   "w": "CARBONIO",
+   "l": 2,
+   "t": "N",
+   "s": "iea",
+   "c": "Elemento chiave dei gas serra"
+  },
+  {
+   "w": "TRASPORTI",
+   "l": 2,
+   "t": "N",
+   "s": "iea",
+   "c": "Settore con molte emissioni: strada, ferro, aria"
+  },
+  {
+   "w": "RICARICA",
+   "l": 1,
+   "t": "N",
+   "s": "red",
+   "c": "Si fa alla colonnina per le auto elettriche"
+  },
+  {
+   "w": "OBIETTIVO",
+   "l": 1,
+   "t": "G",
+   "s": "ue",
+   "c": "Traguardo da raggiungere: ___ zero emissioni"
+  },
+  {
+   "w": "POLVERI",
+   "l": 2,
+   "t": "N",
+   "s": "ispra",
+   "c": "Particolato: ___ sottili nell'aria"
+  },
+  {
+   "w": "PRESTAZIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Rendimento: ___ energetica dell'edificio"
+  },
+  {
+   "w": "RISCALDAMENTO",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Impianto che scalda la casa d'inverno"
+  },
+  {
+   "w": "ILLUMINAZIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Impianto di luci: si riduce con i LED"
+  },
+  {
+   "w": "AGEVOLAZIONE",
+   "l": 2,
+   "t": "P",
+   "s": "ae",
+   "c": "Facilitazione fiscale per chi fa lavori"
+  },
+  {
+   "w": "CERTIFICATO",
+   "l": 2,
+   "t": "P",
+   "s": "enea_inc",
+   "c": "Documento: ___ energetico dell'edificio"
+  },
+  {
+   "w": "ANIDRIDE",
+   "l": 3,
+   "t": "N",
+   "s": "ispra",
+   "c": "___ carbonica: principale gas serra"
+  },
+  {
+   "w": "BIOMASSE",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Materia organica come fonte rinnovabile, al plurale"
+  },
+  {
+   "w": "RINNOVABILE",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Che si rigenera: energia ___"
+  },
+  {
+   "w": "TERMOSIFONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Radiatore, nel linguaggio comune"
+  },
+  {
+   "w": "CONDIZIONATORE",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Apparecchio che raffresca la casa d'estate"
+  },
+  {
+   "w": "ELETTRODOMESTICO",
+   "l": 2,
+   "t": "E",
+   "s": "ue",
+   "c": "Lavatrice o frigorifero: porta l'etichetta energetica"
+  },
+  {
+   "w": "RISPARMIARE",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Consumare meno per spendere meno"
+  },
+  {
+   "w": "SOSTENIBILE",
+   "l": 1,
+   "t": "R",
+   "s": "ue",
+   "c": "Che non compromette le risorse future"
+  },
+  {
+   "w": "ECOLOGICO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Rispettoso dell'ambiente"
+  },
+  {
+   "w": "SALUTE",
+   "l": 1,
+   "t": "G",
+   "s": "red",
+   "c": "Benessere: migliora con aria pulita"
+  },
+  {
+   "w": "SCUOLA",
+   "l": 1,
+   "t": "R",
+   "s": "enea_scuola",
+   "c": "Edificio dove si studia: ENEA propone formazione per le ___"
+  },
+  {
+   "w": "STUDENTI",
+   "l": 1,
+   "t": "R",
+   "s": "enea_scuola",
+   "c": "Giovani che frequentano la scuola"
+  },
+  {
+   "w": "FORMAZIONE",
+   "l": 1,
+   "t": "P",
+   "s": "enea",
+   "c": "Attività di apprendimento: giornate ENEA"
+  },
+  {
+   "w": "LEZIONE",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Incontro didattico: video___ ENEA"
+  },
+  {
+   "w": "CORSO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Percorso formativo: ___ e-learning"
+  },
+  {
+   "w": "RICERCA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Attività scientifica: ENEA la svolge per l'energia"
+  },
+  {
+   "w": "TECNOLOGIA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Applicazione del sapere scientifico"
+  },
+  {
+   "w": "INNOVAZIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Novità tecnica che migliora un processo"
+  },
+  {
+   "w": "CITTADINI",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Persone che vivono in città e partecipano ai Laboratori Urbani"
   }
  ],
  "news": [
@@ -837,77 +2072,59 @@
    "t": "La partecipazione di ENEA DUEE alla Giornata Nazionale di alta formazione ANACI",
    "u": "https://italiainclassea.enea.it/la-partecipazione-di-enea-duee-alla-giornata-nazionale-di-alta-formazione",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
    "t": "Energia: climatizzazione, i consigli ENEA per una casa green e risparmiare sui costi",
    "u": "https://italiainclassea.enea.it/energia-climatizzazione-i-consigli-enea-per-una-casa-green-e-risparmiare",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
-   "t": "Energia: ENEA e Agenzia tedesca DENA studiano l’efficienza delle imprese europee",
+   "t": "Energia: ENEA e Agenzia tedesca DENA studiano l'efficienza delle imprese europee",
    "u": "https://italiainclassea.enea.it/energia-enea-e-agenzia-tedesca-dena-studiano-lefficienza-delle-imprese",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
-   "t": "L’intervento di Ilaria Bertini alla presentazione del Rapporto Strategico della Community Smart Building di TEHA",
+   "t": "L'intervento di Ilaria Bertini alla presentazione del Rapporto Strategico della Community Smart Building di TEHA",
    "u": "https://italiainclassea.enea.it/lintervento-di-ilaria-bertini-alla-presentazione-del-rapporto-strategico",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
-   "t": "L’ENEA tra gli organizzatori di BEHAVE 2025 su comportamento ed efficienza energetica",
+   "t": "L'ENEA tra gli organizzatori di BEHAVE 2025 su comportamento ed efficienza energetica",
    "u": "https://italiainclassea.enea.it/lenea-tra-gli-organizzatori-di-behave-su-comportamento-ed-efficienza",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
-   "t": "Riqualificazione energetica: la Puglia al centro dell’Assemblea Generale del progetto REHOUSE",
+   "t": "Riqualificazione energetica: la Puglia al centro dell'Assemblea Generale del progetto REHOUSE",
    "u": "https://italiainclassea.enea.it/riqualificazione-energetica-la-puglia-al-centro-dellassemblea-generale",
    "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
-   "t": "Efficienza energetica: direttive Ue, ENEA punto di contatto nazionale per azioni di recepimento",
+   "t": "Efficienza energetica: direttive Ue, ENEA punto di contatto nazionale per le azioni di recepimento",
    "u": "https://italiainclassea.enea.it/efficienza-energetica-direttive-ue-enea-punto-di-contatto-nazionale",
    "s": "ENEA",
-   "d": "dal sito"
-  },
-  {
-   "t": "Il progetto REHOUSE presentato al workshop dell’Osservatorio Smart City dell’Università Bocconi",
-   "u": "https://italiainclassea.enea.it/il-progetto-rehouse-presentato-al-workshop-dellosservatorio-smart-city",
-   "s": "ENEA",
-   "d": "dal sito"
-  },
-  {
-   "t": "Riqualificazione energetica degli edifici: è online la pubblicazione sui vantaggi e le sfide dell’Off-Site Construction",
-   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-degli-edifici-e-online-la-pubblicazione-sui",
-   "s": "ENEA",
-   "d": "dal sito"
-  },
-  {
-   "t": "Al via l'edizione 2025 del Premio Sviluppo Sostenibile",
-   "u": "https://italiainclassea.enea.it/al-via-ledizione-del-premio-sviluppo-sostenibile",
-   "s": "ENEA",
-   "d": "dal sito"
-  },
-  {
-   "t": "Riqualificazione energetica: il progetto REHOUSE nel seminario dedicato al retrofit del patrimonio edilizio residenziale",
-   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-il-progetto-rehouse-nel-seminario-dedicato",
-   "s": "ENEA",
-   "d": "dal sito"
-  },
-  {
-   "t": "Efficienza energetica: ENEA DUEE partecipa a GSE in – Forma PA 2025",
-   "u": "https://italiainclassea.enea.it/efficienza-energetica-enea-duee-partecipa-a-gse-in-forma-pa",
-   "s": "ENEA",
-   "d": "dal sito"
+   "d": "giu 2025"
   },
   {
    "t": "The DE-Sign Urban Lab",
    "u": "https://italiainclassea.enea.it/the-de-sign-urban-lab",
+   "s": "ENEA",
+   "d": "mag 2025"
+  },
+  {
+   "t": "Il progetto REHOUSE presentato al workshop dell'Osservatorio Smart City dell'Università Bocconi",
+   "u": "https://italiainclassea.enea.it/il-progetto-rehouse-presentato-al-workshop-dellosservatorio-smart-city",
+   "s": "ENEA",
+   "d": "mag 2025"
+  },
+  {
+   "t": "Riqualificazione energetica degli edifici: online la pubblicazione sull'Off-Site Construction",
+   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-degli-edifici-e-online-la-pubblicazione-sui",
    "s": "ENEA",
    "d": "mag 2025"
   }
