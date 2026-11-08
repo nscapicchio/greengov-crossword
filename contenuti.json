@@ -1,0 +1,977 @@
+{
+ "versione": 1,
+ "aggiornato": "2026-11-08",
+ "autore": "Nicola Scapicchio",
+ "note": "Modifica questo file per aggiungere definizioni (words: w=parola A-Z senza spazi/accenti, l=livello 1-3, t=tema E/R/N/P, s=chiave fonte, c=definizione), news e materiali. La pagina lo rilegge ogni 10 minuti quando è servita via web.",
+ "sources": {
+  "enea": {
+   "n": "ENEA · Italia in Classe A",
+   "u": "https://italiainclassea.enea.it/",
+   "ENEA": true
+  },
+  "enea_inc": {
+   "n": "ENEA · Incentivi e detrazioni",
+   "u": "https://italiainclassea.enea.it/incentivi-e-detrazioni-per-la-riqualificazione-edilizia/",
+   "ENEA": true
+  },
+  "enea_lab": {
+   "n": "ENEA · Laboratori Urbani",
+   "u": "https://italiainclassea.enea.it/",
+   "ENEA": true
+  },
+  "enea_portal": {
+   "n": "ENEA · Portale ufficiale",
+   "u": "https://www.enea.it/",
+   "ENEA": true
+  },
+  "enea_offsite": {
+   "n": "ENEA · Off-Site Construction",
+   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-degli-edifici-e-online-la-pubblicazione-sui",
+   "ENEA": true
+  },
+  "enea_rehouse": {
+   "n": "ENEA · Progetto REHOUSE",
+   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-la-puglia-al-centro-dellassemblea-generale",
+   "ENEA": true
+  },
+  "enea_behave": {
+   "n": "ENEA · BEHAVE 2025",
+   "u": "https://italiainclassea.enea.it/lenea-tra-gli-organizzatori-di-behave-su-comportamento-ed-efficienza",
+   "ENEA": true
+  },
+  "enea_dena": {
+   "n": "ENEA · ENEA e DENA",
+   "u": "https://italiainclassea.enea.it/energia-enea-e-agenzia-tedesca-dena-studiano-lefficienza-delle-imprese",
+   "ENEA": true
+  },
+  "gse": {
+   "n": "GSE · Gestore Servizi Energetici",
+   "u": "https://www.gse.it/"
+  },
+  "mase": {
+   "n": "MASE · Ministero Ambiente e Sicurezza Energetica",
+   "u": "https://www.mase.gov.it/"
+  },
+  "ae": {
+   "n": "Agenzia delle Entrate",
+   "u": "https://www.agenziaentrate.gov.it/"
+  },
+  "arera": {
+   "n": "ARERA",
+   "u": "https://www.arera.it/"
+  },
+  "ue": {
+   "n": "Commissione europea · Energia",
+   "u": "https://energy.ec.europa.eu/"
+  },
+  "iea": {
+   "n": "IEA · International Energy Agency",
+   "u": "https://www.iea.org/"
+  },
+  "irena": {
+   "n": "IRENA",
+   "u": "https://www.irena.org/"
+  },
+  "unfccc": {
+   "n": "UNFCCC · Nazioni Unite",
+   "u": "https://unfccc.int/"
+  },
+  "ispra": {
+   "n": "ISPRA",
+   "u": "https://www.isprambiente.gov.it/"
+  }
+ },
+ "words": [
+  {
+   "w": "ENEA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile"
+  },
+  {
+   "w": "CLASSEA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Campagna ENEA di informazione sull'efficienza energetica: \"Italia in ___\""
+  },
+  {
+   "w": "LED",
+   "l": 1,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Lampada a basso consumo che ha sostituito l'incandescenza"
+  },
+  {
+   "w": "WATT",
+   "l": 1,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Unità di misura della potenza"
+  },
+  {
+   "w": "ENERGIA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Capacità di compiere lavoro: si può produrre, consumare o risparmiare"
+  },
+  {
+   "w": "CALDAIA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Apparecchio che scalda l'acqua dell'impianto di riscaldamento"
+  },
+  {
+   "w": "INFISSI",
+   "l": 1,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Finestre e porte: se sono vecchie disperdono calore"
+  },
+  {
+   "w": "ISOLAMENTO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Riduce le dispersioni di calore di un edificio"
+  },
+  {
+   "w": "RISPARMIO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Consumare meno energia a parità di comfort"
+  },
+  {
+   "w": "CONSUMI",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Quanta energia usiamo: si leggono in bolletta"
+  },
+  {
+   "w": "BOLLETTA",
+   "l": 1,
+   "t": "E",
+   "s": "arera",
+   "c": "Documento che riporta i costi di luce e gas"
+  },
+  {
+   "w": "TERMOSTATO",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Regola la temperatura impostata in casa"
+  },
+  {
+   "w": "EFFICIENZA",
+   "l": 1,
+   "t": "E",
+   "s": "enea",
+   "c": "Fare di più con meno energia"
+  },
+  {
+   "w": "CAPPOTTO",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Isolamento termico applicato sulle pareti esterne dell'edificio"
+  },
+  {
+   "w": "COIBENTAZIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Sinonimo di isolamento termico"
+  },
+  {
+   "w": "VALVOLE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "___ termostatiche: si montano sui radiatori per regolare il calore"
+  },
+  {
+   "w": "CONDENSAZIONE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Caldaia a ___: recupera il calore dei fumi di scarico"
+  },
+  {
+   "w": "POMPADICALORE",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Macchina che trasferisce calore da un ambiente a un altro e riscalda anche la casa"
+  },
+  {
+   "w": "DOMOTICA",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "Automazione intelligente della casa"
+  },
+  {
+   "w": "ETICHETTA",
+   "l": 2,
+   "t": "E",
+   "s": "ue",
+   "c": "___ energetica: scala di classi dalla A alla G sugli elettrodomestici"
+  },
+  {
+   "w": "INVOLUCRO",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Insieme di pareti, tetto e serramenti che racchiude l'edificio"
+  },
+  {
+   "w": "VETROCAMERA",
+   "l": 2,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Doppio vetro con intercapedine: limita le dispersioni"
+  },
+  {
+   "w": "DIAGNOSI",
+   "l": 2,
+   "t": "E",
+   "s": "enea",
+   "c": "___ energetica: analisi dei consumi di edifici e imprese, per cui ENEA gestisce il portale nazionale"
+  },
+  {
+   "w": "STANDBY",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Modalità di attesa che consuma energia anche a dispositivo \"spento\""
+  },
+  {
+   "w": "CONTATORE",
+   "l": 2,
+   "t": "E",
+   "s": "arera",
+   "c": "Strumento che misura i consumi di luce, gas o acqua"
+  },
+  {
+   "w": "KILOWATTORA",
+   "l": 2,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "kWh: unità con cui si misura l'energia consumata"
+  },
+  {
+   "w": "TRASMITTANZA",
+   "l": 3,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Grandezza (U, in W/m²K) che misura il calore che attraversa una struttura"
+  },
+  {
+   "w": "PONTETERMICO",
+   "l": 3,
+   "t": "E",
+   "s": "enea_inc",
+   "c": "Punto dell'involucro in cui il calore si disperde maggiormente"
+  },
+  {
+   "w": "COGENERAZIONE",
+   "l": 3,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Produzione combinata di energia elettrica e calore"
+  },
+  {
+   "w": "TELERISCALDAMENTO",
+   "l": 3,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Calore distribuito a più edifici da una centrale tramite una rete"
+  },
+  {
+   "w": "ESCO",
+   "l": 3,
+   "t": "E",
+   "s": "gse",
+   "c": "Società di servizi energetici (dall'inglese Energy Service Company)"
+  },
+  {
+   "w": "EGE",
+   "l": 3,
+   "t": "E",
+   "s": "enea_portal",
+   "c": "Esperto in Gestione dell'Energia: sigla"
+  },
+  {
+   "w": "NZEB",
+   "l": 3,
+   "t": "E",
+   "s": "ue",
+   "c": "Edificio a energia quasi zero (sigla inglese)"
+  },
+  {
+   "w": "SMARTMETER",
+   "l": 3,
+   "t": "E",
+   "s": "arera",
+   "c": "Contatore intelligente che comunica i consumi in tempo reale"
+  },
+  {
+   "w": "TEE",
+   "l": 3,
+   "t": "E",
+   "s": "gse",
+   "c": "Titoli di Efficienza Energetica, detti anche certificati bianchi: sigla"
+  },
+  {
+   "w": "PNIEC",
+   "l": 3,
+   "t": "P",
+   "s": "mase",
+   "c": "Piano Nazionale Integrato per l'Energia e il Clima: sigla"
+  },
+  {
+   "w": "APE",
+   "l": 1,
+   "t": "P",
+   "s": "enea_inc",
+   "c": "Attestato di Prestazione Energetica: sigla"
+  },
+  {
+   "w": "DETRAZIONI",
+   "l": 1,
+   "t": "P",
+   "s": "enea_inc",
+   "c": "Sconti sulle imposte per lavori di riqualificazione energetica"
+  },
+  {
+   "w": "ECOBONUS",
+   "l": 2,
+   "t": "P",
+   "s": "enea_inc",
+   "c": "Detrazione fiscale per interventi di riqualificazione energetica degli edifici"
+  },
+  {
+   "w": "SUPERBONUS",
+   "l": 2,
+   "t": "P",
+   "s": "ae",
+   "c": "Detrazione al 110% introdotta nel 2020 dal Decreto Rilancio"
+  },
+  {
+   "w": "CONTOTERMICO",
+   "l": 2,
+   "t": "P",
+   "s": "gse",
+   "c": "Incentivo gestito dal GSE per piccoli interventi di efficienza e rinnovabili termiche"
+  },
+  {
+   "w": "GSE",
+   "l": 2,
+   "t": "P",
+   "s": "gse",
+   "c": "Gestore dei Servizi Energetici: sigla"
+  },
+  {
+   "w": "PNRR",
+   "l": 2,
+   "t": "P",
+   "s": "mase",
+   "c": "Piano Nazionale di Ripresa e Resilienza: sigla"
+  },
+  {
+   "w": "MASE",
+   "l": 3,
+   "t": "P",
+   "s": "mase",
+   "c": "Ministero dell'Ambiente e della Sicurezza Energetica: sigla"
+  },
+  {
+   "w": "ARERA",
+   "l": 3,
+   "t": "P",
+   "s": "arera",
+   "c": "Autorità di regolazione per energia, reti e ambiente: sigla"
+  },
+  {
+   "w": "EPBD",
+   "l": 3,
+   "t": "P",
+   "s": "ue",
+   "c": "Direttiva europea sulle \"case green\", prestazione energetica degli edifici: sigla"
+  },
+  {
+   "w": "RIGENERAZIONE",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Recupero di aree urbane ed edifici degradati per dar loro nuova vita"
+  },
+  {
+   "w": "RIQUALIFICAZIONE",
+   "l": 2,
+   "t": "R",
+   "s": "enea_inc",
+   "c": "Intervento che migliora le prestazioni di un edificio esistente"
+  },
+  {
+   "w": "RECUPERO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Rimettere in uso ciò che era abbandonato"
+  },
+  {
+   "w": "RIUSO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Dare una seconda vita a ciò che si è già usato"
+  },
+  {
+   "w": "RICICLO",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Trasformare i rifiuti in nuove materie prime"
+  },
+  {
+   "w": "RIFIUTI",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Ciò che si scarta: meglio ridurli, riusarli e riciclarli"
+  },
+  {
+   "w": "PERIFERIA",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Quartiere lontano dal centro, spesso oggetto di rigenerazione"
+  },
+  {
+   "w": "DEGRADO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Stato di abbandono di edifici o quartieri"
+  },
+  {
+   "w": "BORGO",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Piccolo centro storico che si può rigenerare"
+  },
+  {
+   "w": "VERDE",
+   "l": 1,
+   "t": "R",
+   "s": "ispra",
+   "c": "Parchi e giardini: il ___ urbano"
+  },
+  {
+   "w": "COMUNITA",
+   "l": 1,
+   "t": "R",
+   "s": "enea",
+   "c": "Gruppo di persone che condivide spazi e obiettivi"
+  },
+  {
+   "w": "SUOLO",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Il consumo di ___ è la copertura artificiale del terreno"
+  },
+  {
+   "w": "CIRCOLARE",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Economia ___: riduce gli sprechi e rigenera le risorse"
+  },
+  {
+   "w": "RESILIENZA",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Capacità di una città di reagire a shock e cambiamenti"
+  },
+  {
+   "w": "URBANI",
+   "l": 2,
+   "t": "R",
+   "s": "enea_lab",
+   "c": "I Laboratori ___ ENEA sperimentano soluzioni insieme ai cittadini"
+  },
+  {
+   "w": "TETTOVERDE",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Copertura di un edificio ricoperta di vegetazione"
+  },
+  {
+   "w": "DISMESSA",
+   "l": 2,
+   "t": "R",
+   "s": "ispra",
+   "c": "Area ___: ex industriale non più utilizzata"
+  },
+  {
+   "w": "PATRIMONIO",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "___ culturale: edifici storici da rendere efficienti senza snaturarli"
+  },
+  {
+   "w": "MOBILITA",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "___ sostenibile: spostarsi senza inquinare"
+  },
+  {
+   "w": "RESTAURO",
+   "l": 2,
+   "t": "R",
+   "s": "enea",
+   "c": "Recupero conservativo di un edificio storico"
+  },
+  {
+   "w": "SOSTENIBILITA",
+   "l": 2,
+   "t": "R",
+   "s": "ue",
+   "c": "Soddisfare i bisogni di oggi senza compromettere quelli futuri"
+  },
+  {
+   "w": "ISOLADICALORE",
+   "l": 3,
+   "t": "R",
+   "s": "ispra",
+   "c": "Fenomeno per cui le città sono più calde delle campagne circostanti"
+  },
+  {
+   "w": "PERMEABILE",
+   "l": 3,
+   "t": "R",
+   "s": "ispra",
+   "c": "Superficie che lascia filtrare l'acqua piovana"
+  },
+  {
+   "w": "OFFSITE",
+   "l": 3,
+   "t": "R",
+   "s": "enea_offsite",
+   "c": "___ Construction: costruzione di componenti edilizi in stabilimento, tema di una pubblicazione ENEA"
+  },
+  {
+   "w": "REHOUSE",
+   "l": 3,
+   "t": "R",
+   "s": "enea_rehouse",
+   "c": "Progetto europeo sulla riqualificazione edilizia, assemblea in Puglia nel 2025"
+  },
+  {
+   "w": "BEHAVE",
+   "l": 3,
+   "t": "E",
+   "s": "enea_behave",
+   "c": "Conferenza su comportamento ed efficienza energetica, tra i cui organizzatori c'è ENEA"
+  },
+  {
+   "w": "DENA",
+   "l": 3,
+   "t": "E",
+   "s": "enea_dena",
+   "c": "Agenzia tedesca dell'energia che studia con ENEA l'efficienza delle imprese europee"
+  },
+  {
+   "w": "SOLE",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Fonte rinnovabile per eccellenza"
+  },
+  {
+   "w": "VENTO",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Fa girare le pale di un aerogeneratore"
+  },
+  {
+   "w": "EOLICO",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Energia che arriva dal vento"
+  },
+  {
+   "w": "FOTOVOLTAICO",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Impianto che trasforma la luce del sole in elettricità"
+  },
+  {
+   "w": "SOLARE",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Energia che arriva dal Sole"
+  },
+  {
+   "w": "RINNOVABILI",
+   "l": 1,
+   "t": "N",
+   "s": "irena",
+   "c": "Fonti che non si esauriscono: energie ___"
+  },
+  {
+   "w": "PANNELLO",
+   "l": 1,
+   "t": "N",
+   "s": "gse",
+   "c": "Il ___ solare cattura i raggi del Sole"
+  },
+  {
+   "w": "BATTERIA",
+   "l": 1,
+   "t": "N",
+   "s": "enea",
+   "c": "Conserva l'energia elettrica per usarla quando serve"
+  },
+  {
+   "w": "EMISSIONI",
+   "l": 1,
+   "t": "N",
+   "s": "ispra",
+   "c": "Gas serra rilasciati nell'atmosfera"
+  },
+  {
+   "w": "CLIMA",
+   "l": 1,
+   "t": "N",
+   "s": "unfccc",
+   "c": "Insieme delle condizioni meteorologiche di lungo periodo; cambia per colpa dei gas serra"
+  },
+  {
+   "w": "IDROELETTRICO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Energia ottenuta dalla forza dell'acqua che cade"
+  },
+  {
+   "w": "GEOTERMICO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Energia che arriva dal calore della Terra"
+  },
+  {
+   "w": "BIOMASSA",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Materia organica usata come combustibile"
+  },
+  {
+   "w": "BIOGAS",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Gas prodotto dalla fermentazione di materia organica"
+  },
+  {
+   "w": "IDROGENO",
+   "l": 2,
+   "t": "N",
+   "s": "iea",
+   "c": "Elemento più leggero, vettore energetico pulito se prodotto da rinnovabili"
+  },
+  {
+   "w": "INVERTER",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Converte la corrente continua del fotovoltaico in alternata"
+  },
+  {
+   "w": "ACCUMULO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Sistema di ___: batterie che conservano l'energia prodotta"
+  },
+  {
+   "w": "TURBINA",
+   "l": 2,
+   "t": "N",
+   "s": "iea",
+   "c": "Gira con vento o acqua per produrre elettricità"
+  },
+  {
+   "w": "AUTOCONSUMO",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Usare direttamente l'energia che si produce"
+  },
+  {
+   "w": "CER",
+   "l": 2,
+   "t": "N",
+   "s": "gse",
+   "c": "Comunità Energetica Rinnovabile: sigla"
+  },
+  {
+   "w": "PARIGI",
+   "l": 2,
+   "t": "N",
+   "s": "unfccc",
+   "c": "L'accordo sul clima del 2015 prende il nome da questa città"
+  },
+  {
+   "w": "KYOTO",
+   "l": 2,
+   "t": "N",
+   "s": "unfccc",
+   "c": "Protocollo del 1997 per ridurre i gas serra"
+  },
+  {
+   "w": "BIOMETANO",
+   "l": 3,
+   "t": "N",
+   "s": "gse",
+   "c": "Biogas depurato che può essere immesso nella rete del gas"
+  },
+  {
+   "w": "PROSUMER",
+   "l": 3,
+   "t": "N",
+   "s": "gse",
+   "c": "Chi produce e consuma energia allo stesso tempo"
+  },
+  {
+   "w": "FER",
+   "l": 3,
+   "t": "N",
+   "s": "gse",
+   "c": "Fonti Energetiche Rinnovabili: sigla"
+  },
+  {
+   "w": "AGRIVOLTAICO",
+   "l": 3,
+   "t": "N",
+   "s": "mase",
+   "c": "Fotovoltaico che convive con la coltivazione agricola"
+  },
+  {
+   "w": "SMARTGRID",
+   "l": 3,
+   "t": "N",
+   "s": "iea",
+   "c": "Rete elettrica intelligente"
+  },
+  {
+   "w": "DECARBONIZZAZIONE",
+   "l": 3,
+   "t": "N",
+   "s": "ue",
+   "c": "Riduzione progressiva delle emissioni di carbonio"
+  },
+  {
+   "w": "COP",
+   "l": 3,
+   "t": "N",
+   "s": "unfccc",
+   "c": "Conferenza delle Parti sul clima delle Nazioni Unite: sigla"
+  },
+  {
+   "w": "NETZERO",
+   "l": 3,
+   "t": "N",
+   "s": "ue",
+   "c": "Obiettivo di emissioni nette pari a zero (due parole in inglese, senza spazio)"
+  },
+  {
+   "w": "OFFSHORE",
+   "l": 3,
+   "t": "N",
+   "s": "iea",
+   "c": "Eolico ___: pale installate in mare"
+  },
+  {
+   "w": "MAREMOTRICE",
+   "l": 3,
+   "t": "N",
+   "s": "irena",
+   "c": "Energia ___: sfrutta maree e moto ondoso"
+  },
+  {
+   "w": "IRENA",
+   "l": 3,
+   "t": "N",
+   "s": "irena",
+   "c": "Agenzia internazionale per le energie rinnovabili"
+  },
+  {
+   "w": "IEA",
+   "l": 3,
+   "t": "N",
+   "s": "iea",
+   "c": "Agenzia internazionale dell'energia: sigla inglese"
+  }
+ ],
+ "news": [
+  {
+   "t": "La partecipazione di ENEA DUEE alla Giornata Nazionale di alta formazione ANACI",
+   "u": "https://italiainclassea.enea.it/la-partecipazione-di-enea-duee-alla-giornata-nazionale-di-alta-formazione",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "Energia: climatizzazione, i consigli ENEA per una casa green e risparmiare sui costi",
+   "u": "https://italiainclassea.enea.it/energia-climatizzazione-i-consigli-enea-per-una-casa-green-e-risparmiare",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "Energia: ENEA e Agenzia tedesca DENA studiano l'efficienza delle imprese europee",
+   "u": "https://italiainclassea.enea.it/energia-enea-e-agenzia-tedesca-dena-studiano-lefficienza-delle-imprese",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "L'intervento di Ilaria Bertini alla presentazione del Rapporto Strategico della Community Smart Building di TEHA",
+   "u": "https://italiainclassea.enea.it/lintervento-di-ilaria-bertini-alla-presentazione-del-rapporto-strategico",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "L'ENEA tra gli organizzatori di BEHAVE 2025 su comportamento ed efficienza energetica",
+   "u": "https://italiainclassea.enea.it/lenea-tra-gli-organizzatori-di-behave-su-comportamento-ed-efficienza",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "Riqualificazione energetica: la Puglia al centro dell'Assemblea Generale del progetto REHOUSE",
+   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-la-puglia-al-centro-dellassemblea-generale",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "Efficienza energetica: direttive Ue, ENEA punto di contatto nazionale per le azioni di recepimento",
+   "u": "https://italiainclassea.enea.it/efficienza-energetica-direttive-ue-enea-punto-di-contatto-nazionale",
+   "s": "ENEA",
+   "d": "giu 2025"
+  },
+  {
+   "t": "The DE-Sign Urban Lab",
+   "u": "https://italiainclassea.enea.it/the-de-sign-urban-lab",
+   "s": "ENEA",
+   "d": "mag 2025"
+  },
+  {
+   "t": "Il progetto REHOUSE presentato al workshop dell'Osservatorio Smart City dell'Università Bocconi",
+   "u": "https://italiainclassea.enea.it/il-progetto-rehouse-presentato-al-workshop-dellosservatorio-smart-city",
+   "s": "ENEA",
+   "d": "mag 2025"
+  },
+  {
+   "t": "Riqualificazione energetica degli edifici: online la pubblicazione sull'Off-Site Construction",
+   "u": "https://italiainclassea.enea.it/riqualificazione-energetica-degli-edifici-e-online-la-pubblicazione-sui",
+   "s": "ENEA",
+   "d": "mag 2025"
+  }
+ ],
+ "materials": [
+  {
+   "t": "Materiali didattici GreenGovAccelerator (5 giornate formative, ZIP)",
+   "u": "https://italiainclassea.enea.it/materiali-didattici-greengovaccelerator",
+   "s": "ENEA",
+   "k": "Materiali"
+  },
+  {
+   "t": "Giornate formative ENEA",
+   "u": "https://italiainclassea.enea.it/training-day/",
+   "s": "ENEA",
+   "k": "Formazione"
+  },
+  {
+   "t": "Corso e-learning e videolezioni",
+   "u": "https://italiainclassea.enea.it/elearning/",
+   "s": "ENEA",
+   "k": "Formazione"
+  },
+  {
+   "t": "Scuola e Formazione",
+   "u": "https://italiainclassea.enea.it/scuola-e-formazione/",
+   "s": "ENEA",
+   "k": "Scuola"
+  },
+  {
+   "t": "Incentivi e detrazioni per la riqualificazione edilizia",
+   "u": "https://italiainclassea.enea.it/incentivi-e-detrazioni-per-la-riqualificazione-edilizia/",
+   "s": "ENEA",
+   "k": "Incentivi"
+  },
+  {
+   "t": "Digital Library ENEA",
+   "u": "https://italiainclassea.enea.it/digitalLibrary/index/",
+   "s": "ENEA",
+   "k": "Biblioteca"
+  },
+  {
+   "t": "Tutte le news di Italia in Classe A",
+   "u": "https://italiainclassea.enea.it/news/",
+   "s": "ENEA",
+   "k": "News"
+  },
+  {
+   "t": "GSE · Conto Termico, fotovoltaico, comunità energetiche",
+   "u": "https://www.gse.it/",
+   "s": "GSE",
+   "k": "Incentivi"
+  },
+  {
+   "t": "MASE · politiche energetiche e PNIEC",
+   "u": "https://www.mase.gov.it/",
+   "s": "MASE",
+   "k": "Politiche"
+  },
+  {
+   "t": "Agenzia delle Entrate · agevolazioni fiscali edilizia",
+   "u": "https://www.agenziaentrate.gov.it/",
+   "s": "Agenzia Entrate",
+   "k": "Fisco"
+  },
+  {
+   "t": "Commissione europea · energia ed efficienza",
+   "u": "https://energy.ec.europa.eu/",
+   "s": "UE",
+   "k": "Europa"
+  },
+  {
+   "t": "IEA · rapporti globali su energia e clima",
+   "u": "https://www.iea.org/",
+   "s": "IEA",
+   "k": "Internazionale"
+  },
+  {
+   "t": "IRENA · statistiche sulle rinnovabili",
+   "u": "https://www.irena.org/",
+   "s": "IRENA",
+   "k": "Internazionale"
+  }
+ ]
+}
