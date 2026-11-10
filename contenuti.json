@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "aggiornato": "2026-11-09",
+ "aggiornato": "2026-11-10",
  "autore": "Nicola Scapicchio",
  "note": "Modifica questo file per aggiungere definizioni (words: w=parola A-Z senza spazi/accenti, l=livello 1-3, t=tema E/R/N/P, s=chiave fonte, c=definizione), news e materiali. La pagina lo rilegge ogni 10 minuti quando è servita via web.",
  "sources": {
